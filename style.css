@@ -1,6 +1,9 @@
 * {
   text-align: center;
 }
+.image-size {
+  height: 180px;
+}
 .table {
   margin: 0px auto;
 }
@@ -8,16 +11,33 @@
   background-color: white;
   border: black;
   color: black;
-  padding: 2px 20px;
+  padding: 1px 12px;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 16x;
   transition-duration: 0.4s;
   line-height: -90%;
 }
 .button:hover {
   color: grey;
 }
+.button-footer {
+  background-color: white;
+  border: black;
+  color: black;
+  padding: 1px 3px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  line-height: -90%;
+}
+.button-footer:hover {
+  color: grey;
+}
 .section-space {
-  padding: 58px ;
+  padding: 48px;
+}
+.section-space-nav {
+  padding: 2px;
 }
