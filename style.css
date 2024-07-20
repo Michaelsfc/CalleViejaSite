@@ -1,6 +1,11 @@
 * {
   text-align: center;
-  font-family: "Bookman Old Style";
+}
+.comfortaa-typeface {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 30;
+  font-style: normal;
 }
 .image-size {
   height: 180px;
