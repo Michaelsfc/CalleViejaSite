@@ -1,16 +1,30 @@
-* {
+.box-config {
+  width: 100%;
+  margin-left: 0%;
   text-align: center;
-}
-.comfortaa-typeface {
   font-family: "Comfortaa", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 30;
+  font-weight: 20;
   font-style: normal;
 }
-.image-size {
+.tittle-config {
+  padding: 50px 48px;
+  font-size: 80%;
+}
+.second-tittle-config {
+  padding: 30px 48px;
+  font-size: 100%;
+}
+.content-config {
+  padding: 0px 48px 24px 48px;
+}
+.content-config-footer {
+  padding: 30px 48px;
+}
+.image-config {
   height: 180px;
 }
-.table {
+.table-config {
   margin: 0px auto;
 }
 .button {
@@ -40,10 +54,4 @@
 }
 .button-footer:hover {
   color: grey;
-}
-.section-space {
-  padding: 48px;
-}
-.section-space-nav {
-  padding: 2px;
 }
