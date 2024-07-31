@@ -6,23 +6,19 @@
   font-style: normal;
 }
 .tittle-config {
-  padding: 50px 35px;
   font-size: 140%;
+  padding: 2.5%;
 }
 .second-tittle-config {
-  padding: 40px 50px;
   font-size: 100%;
+  padding: 2.5%;
 }
 .content-config {
-  padding: 0px 50px 50px 50px;
+  padding: 2.5%;
 }
 .image-config {
   height: 180px;
   max-width: 100%;
-}
-.list-config {
-  list-style-type: none;
-  line-height: 1.5em;
 }
 .button {
   background-color: white;
