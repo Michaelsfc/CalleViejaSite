@@ -1,6 +1,4 @@
 .box-config {
-  width: 100%;
-  margin-left: 0%;
   text-align: center;
   font-family: "Comfortaa", sans-serif;
   font-optical-sizing: auto;
@@ -8,24 +6,23 @@
   font-style: normal;
 }
 .tittle-config {
-  padding: 50px 48px;
-  font-size: 80%;
+  padding: 50px 35px;
+  font-size: 140%;
 }
 .second-tittle-config {
-  padding: 30px 48px;
+  padding: 40px 50px;
   font-size: 100%;
 }
 .content-config {
-  padding: 0px 48px 24px 48px;
-}
-.content-config-footer {
-  padding: 30px 48px;
+  padding: 0px 50px 50px 50px;
 }
 .image-config {
   height: 180px;
+  max-width: 100%;
 }
-.table-config {
-  margin: 0px auto;
+.list-config {
+  list-style-type: none;
+  line-height: 1.5em;
 }
 .button {
   background-color: white;
