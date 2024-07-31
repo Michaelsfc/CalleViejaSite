@@ -20,6 +20,10 @@
   height: 180px;
   max-width: 100%;
 }
+.list-config {
+  list-style-type: none;
+  line-height: 1.5em;
+}
 .button {
   background-color: white;
   border: black;
